@@ -24,7 +24,7 @@ Aqui estão as principais tecnologias com as quais trabalho no meu dia a dia (ut
 *(Obs: Tenho também uma base sólida de estudos em Java, OOP, PHP, HTML e CSS, o que me permite transitar bem por diferentes estruturas web na hora de automatizar testes ou raspar dados).*
 
 ### 📈 Projetos em Destaque
-- [Robô de Extração RPA na Amazon](link-do-seu-repositorio-aqui): Automação construída com Selenium e Pandas, utilizando esperas dinâmicas (WebDriverWait) para garantir resiliência durante a navegação.
+- [Robô de Extração RPA na Amazon]([link-do-seu-repositorio-aqui](https://github.com/Gabrielcs95/robo-extracao-amazon-rpa.git)): Automação construída com Selenium e Pandas, utilizando esperas dinâmicas (WebDriverWait) para garantir resiliência durante a navegação.
 
 ### 📫 Como me encontrar
 <a href="www.linkedin.com/in/gabriel-costa95" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
