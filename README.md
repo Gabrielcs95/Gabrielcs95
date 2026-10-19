@@ -34,7 +34,5 @@ Com 8 anos de vivência em ambientes de produção industrial, desenvolvi uma vi
 <a href="www.linkedin.com/in/gabriel-costa95" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="mailto:gabrielcosta1817@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-> *"A tecnologia move o mundo, mas a automação o faz girar mais rápido."*
-
 ---
 *"A tecnologia move o mundo, mas a automação o faz girar mais rápido."*
